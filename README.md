@@ -16,7 +16,9 @@ The **ReMAP** project, funded under the **European Maritime, Fisheries and Aquac
 This organization includes:  
 - **Geospatial analysis tools** for scenario evaluation and maritime use planning.  
 - **Data processing workflows** for harmonizing and integrating MSP-related datasets.  
-- **Visualization and decision-support applications** to facilitate stakeholder interactions.  
+- **Visualization and decision-support applications** to facilitate stakeholder interactions.
+
+<img src="https://github.com/user-attachments/assets/132793b4-c5a9-4228-85cc-269d6382a17f" width="400" />
 
 Each repository contains specific documentation and usage guidelines. Contributions and collaborations are welcome!  
 
